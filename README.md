@@ -4,7 +4,7 @@ Java projects by James Fischer from a fundamentals of object-oriented programmin
 
 | Folder | What it does |
 |---|---|
-| `project1` | Grocery list manager: classes, arrays, file input |
+| `project1` | Grocery list with item orders and totals: classes and arrays |
 | `project2` | Library item hierarchy (`Item`, `WrittenItem`, `Book`, `JournalArticle`, `MediaItem`, `CD`): inheritance and polymorphism |
 | `project3-edit-distance` | Edit-distance (Levenshtein) word transformer with dynamic programming |
 | `bonus-towers` | Towers of Hanoi solved recursively |
